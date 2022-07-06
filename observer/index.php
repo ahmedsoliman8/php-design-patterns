@@ -47,7 +47,7 @@ class Login implements Subject
 {
     use Subjectable;
 
-   
+
 }
 
 class MailingListSignup implements Subject
